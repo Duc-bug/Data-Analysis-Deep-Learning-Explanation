@@ -33,14 +33,8 @@ Bài lab này thực hành phân tích và trực quan hóa dữ liệu tuyển 
 - Scatter plot và Scatter matrix
 
 ## Công cụ
-- Python 3.x
 - Pandas
 - NumPy
 - Matplotlib
 - Scipy
-
-## Cách sử dụng
-1. Mở file `lab2.ipynb` trong Jupyter Notebook/VS Code
-2. Chạy từng cell theo thứ tự
-3. Quan sát kết quả và biểu đồ
 
